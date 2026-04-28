@@ -13,7 +13,7 @@ su -
 - Get the XO installer script, make it executable, run it
 
 ```
-wget https://github.com/anthonycorreia/XO_installer/
+wget https://raw.githubusercontent.com/anthonycorreia/XO-installer/refs/heads/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
